@@ -1,3 +1,3 @@
-<scrript>
+<script>
     alert('XSS POC BY @Salem_Nabeel');
-</scrript>
+</script>
